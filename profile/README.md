@@ -16,4 +16,13 @@ Description: A discord bot that allows users to generate FreeDNS accounts, regis
 <br>
 Status: Archived
 
+**Vezi** - https://veziapp.com
+- vezi-website https://veziapp.com | [GitHub](https://github.com/xNovaLabs/vezi-website)
+- vezi-keygen [GitHub](https://github.com/xNovaLabs/vezi-keygen)
+- vezi-backend https://api.veziapp.com | *Closed-Source*
+<br>
+Description: Vezi is a service that offers extremely cheap integration with existing Large Language Models such as ChatGPT for more accessibility from one central interface, without rate-limits.
+<br>
+Status: Hiatus
+
 
