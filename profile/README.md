@@ -10,7 +10,7 @@ Description: A minimalistic web-proxy service for users who value privacy and fu
 <br>
 Status: Deployed | In-Development
 
-**Linqr** - [GitHub](https://github.com/xNovaLabs/Xen)
+**Linqr** - [GitHub](https://github.com/xNovaLabs/Linqr)
 <br>
 Description: A discord bot that allows users to generate FreeDNS accounts, register domains with FreeDNS, reroute CAPTCHAS, and generae unlimited Lightspeed Unblocked domains.
 <br>
