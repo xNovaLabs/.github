@@ -8,7 +8,13 @@ Projects:
 <br>
 *Description*: A minimalistic web-proxy service for users who value privacy and function.
 <br>
-*Status*: Deployed | In-Development
+*Status*: Production | In-Development
+
+**Lucid** - https://lucidub.com | [GitHub](https://github.com/xNovaLabs/Lucid)
+<br>
+*Description*: to be determined.
+<br>
+*Status*: Beta | In-Development
 
 **Linqr** - [GitHub](https://github.com/xNovaLabs/Linqr)
 <br>
