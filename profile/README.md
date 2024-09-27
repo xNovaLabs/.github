@@ -22,6 +22,12 @@ Projects:
 <br>
 *Status*: Archived
 
+**Supplier** - [GitHub](https://github.com/xNovaLabs/Supplier)
+<br>
+*Description*: A highly-customizable discord bot that allows users to be supplied proxy links. Utilizes a json file for keeping track. Meant for up & coming proxy servers.
+<br>
+*Status*: Production | In-Development
+
 **Vezi** - https://veziapp.com
 - vezi-website https://veziapp.com | [GitHub](https://github.com/xNovaLabs/vezi-website)
 - vezi-keygen [GitHub](https://github.com/xNovaLabs/vezi-keygen)
